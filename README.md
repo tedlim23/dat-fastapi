@@ -4,7 +4,7 @@ Documentation: https://fastapi.tiangolo.com
 
 Source Code: https://github.com/tiangolo/fastapi
 
-Requirements¶
+Requirements\
 Python 3.7+
 
 Installation
