@@ -31,7 +31,6 @@ You will also need an ASGI server, for production such as Uvicorn or Hypercorn.
 Copy that to a file main.py.
 
     uvicorn main:app --reload
-
 <br />
 or
 
