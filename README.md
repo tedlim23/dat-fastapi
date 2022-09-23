@@ -4,11 +4,13 @@ Documentation: https://fastapi.tiangolo.com
 
 Source Code: https://github.com/tiangolo/fastapi
 
-    pip install "fastapi[all]"
+    pip install "fastapi[all]" 
+<br />
 
-    pip install "uvicorn[standard]"
+    pip install "uvicorn[standard]" 
 
-
+<br />
+    
     from fastapi import FastAPI
 
     app = FastAPI()
